@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\bin\Debug\net6.0\Task_6_even.exe
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\bin\Debug\net6.0\Task_6_even.deps.json
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\bin\Debug\net6.0\Task_6_even.runtimeconfig.json
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\bin\Debug\net6.0\Task_6_even.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\bin\Debug\net6.0\Task_6_even.pdb
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\refint\Task_6_even.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.pdb
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\Task_6_even.genruntimeconfig.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_6_even\obj\Debug\net6.0\ref\Task_6_even.dll
