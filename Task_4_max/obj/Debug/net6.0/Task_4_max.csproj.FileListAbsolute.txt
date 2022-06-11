@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\bin\Debug\net6.0\Task_4_max.exe
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\bin\Debug\net6.0\Task_4_max.deps.json
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\bin\Debug\net6.0\Task_4_max.runtimeconfig.json
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\bin\Debug\net6.0\Task_4_max.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\bin\Debug\net6.0\Task_4_max.pdb
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\refint\Task_4_max.dll
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.pdb
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\Task_4_max.genruntimeconfig.cache
+C:\Users\user\Desktop\Lesson 1 Denis Habbibulin Homework KachimovDA\Task_4_max\obj\Debug\net6.0\ref\Task_4_max.dll
